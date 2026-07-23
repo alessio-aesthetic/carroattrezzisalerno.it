@@ -1,4 +1,4 @@
-export const site = {
+﻿export const site = {
     "domain":  "carroattrezzisalerno.it",
     "template":  "protocol",
     "description":  "Carroattrezzi a Salerno e soccorso stradale a Salerno: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
@@ -145,5 +145,6 @@ export const faqs = [
         "answer":  "Sì, il servizio di soccorso stradale è organizzato per richieste urgenti durante tutta la giornata, compresi orari serali, notturni e festivi."
     }
 ] as const
+
 
 
