@@ -62,8 +62,8 @@ export const zones = [
         "slug":  "pontecagnano-faiano"
     },
     {
-        "title":  "Carroattrezzi a Cava deâ€™ Tirreni",
-        "name":  "Cava deâ€™ Tirreni",
+        "title":  "Carroattrezzi a Cava de’ Tirreni",
+        "name":  "Cava de’ Tirreni",
         "slug":  "cava-de-tirreni"
     },
     {
@@ -121,14 +121,14 @@ export const zones = [
 export const faqs = [
     {
         "question":  "Quanto costa un carroattrezzi a ",
-        "answer":  "Il costo dipende da posizione, tipo di veicolo, condizioni del recupero, distanza e destinazione. Prima di partire raccogliamo i dati essenziali per darti unâ€™indicazione chiara."
+        "answer":  "Il costo dipende da posizione, tipo di veicolo, condizioni del recupero, distanza e destinazione. Prima di partire raccogliamo i dati essenziali per darti un’indicazione chiara."
     },
     {
         "question":  "Fate soccorso stradale a Salerno e provincia?",
         "answer":  "Sì, organizziamo interventi in città, nelle zone industriali, sulle strade provinciali e nei comuni vicini, valutando accessi e caratteristiche del mezzo."
     },
     {
-        "question":  "Posso scegliere dove portare lâ€™auto?",
+        "question":  "Posso scegliere dove portare l’auto?",
         "answer":  "Sì. Puoi indicare officina, carrozzeria, deposito, abitazione o un altro indirizzo concordato prima del recupero."
     },
     {
