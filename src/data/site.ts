@@ -1,4 +1,4 @@
-﻿export const site = {
+export const site = {
     "domain":  "carroattrezzisalerno.it",
     "template":  "protocol",
     "description":  "Carroattrezzi a Salerno e soccorso stradale a Salerno: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
