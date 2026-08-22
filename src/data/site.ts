@@ -5,7 +5,7 @@ export const site = {
     "tel":  "+390891803547",
     "city":  "Salerno",
     "name":  "Carroattrezzi Salerno",
-    "address":  "Via Roberto Wenner, 62 - 84131 Salerno SA",
+    "address":  "Via Terre Risaie, 31 - 84131 Salerno SA",
     "title":  "Carroattrezzi a Salerno 24H | Soccorso stradale",
     "phone":  "089 180 3547",
     "email":  "assistenza@carroattrezzisalerno.it"
