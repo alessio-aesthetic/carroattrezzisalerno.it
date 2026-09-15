@@ -2,12 +2,12 @@ export const site = {
     "domain":  "carroattrezzisalerno.it",
     "template":  "protocol",
     "description":  "Carroattrezzi a Salerno e soccorso stradale a Salerno: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
-    "tel":  "+390891803547",
+    "tel":  "+390892840052",
     "city":  "Salerno",
     "name":  "Carroattrezzi Salerno",
     "address":  "SS 18 Tirrena Inferiore, 157 - 84131 Salerno SA",
     "title":  "Carroattrezzi a Salerno 24H | Soccorso stradale",
-    "phone":  "089 180 3547",
+    "phone":  "089 2840052",
     "email":  "assistenza@carroattrezzisalerno.it"
 } as const
 
