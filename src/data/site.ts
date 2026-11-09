@@ -5,7 +5,6 @@ export const site = {
     "tel":  "+390892840052",
     "city":  "Salerno",
     "name":  "Carroattrezzi Salerno",
-    "address":  "SS 18 Tirrena Inferiore, 157 - 84131 Salerno SA",
     "title":  "Carroattrezzi a Salerno 24H | Soccorso stradale",
     "phone":  "089 2840052",
     "email":  "assistenza@carroattrezzisalerno.it"
